@@ -8,7 +8,7 @@ with open('input.xml') as xml_file:
     
     json_conversion = json.dumps(parsed_data)
 
-    print("bye")
+    print("bye bye")
 
     with open('output.json', 'w') as json_file:
         json_file.write(json_conversion)
