@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2022-10-24)
+### Fix
+* Example ([`40a0de8`](https://github.com/thuongnn/ga-python/commit/40a0de83516a2ed4b3cd49df000c04a58fdb75c1))
+
 ## v0.1.0 (2022-10-24)
 ### Feature
 * **pencil:** Add 'graphiteWidth' option ([`e98235d`](https://github.com/thuongnn/ga-python/commit/e98235d352c82c964bed4c63b3e98277e4acddb2))
